@@ -39,9 +39,9 @@ const onSubmitHandler = (e) => {
                        onChange={onChangeHandler}
                 ></input>  
             </form>
-            
         </div>
     )
 }
 
 export default SearchBar
+            

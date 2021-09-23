@@ -2,8 +2,8 @@ import React from 'react'
 
 function DashBoard(props) {
     return (
-        <div>
-            <h1>Hello</h1>
+        <div id='dash-board'>
+            <h1>Dashboard Here</h1>
         </div>
     )
 }
